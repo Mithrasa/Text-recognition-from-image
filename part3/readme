@@ -1,0 +1,5 @@
+Write a Python program using PyTesseract and OpenCV to read an input image
+containing text, and do the following:
+1. Draw bounding boxes around every word
+2. Annotate every bounding box with the detected text within the box
+
